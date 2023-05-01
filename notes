@@ -1,0 +1,17 @@
+
+video : https://www.youtube.com/watch?v=d4Y2DkKbxM0
+
+Project using fiber
+
+go get github.com/joho/godotenv
+
+go get github.com/gofiber/fiber/v2
+
+go get -u gorm.io/gorm
+
+go get -u gorm.io/driver/sqlite
+
+go get github.com/dgrijalva/jwt-go/v4
+
+go get golang.org/x/crypto/bcrypt
+
